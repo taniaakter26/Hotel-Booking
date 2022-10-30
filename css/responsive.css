@@ -1,0 +1,349 @@
+
+/* low resulation mobile phone--glaxy fold */
+@media (min-width: 279px) and (max-width: 319px){
+/* small-device code start */
+.banner .title {
+    padding: 530px 0px 0px 0px;
+    text-align: left;
+}
+.banner .title h1 {
+    font-size: 56px;
+    line-height: 12px;
+    text-align: center;
+}
+.banner .title h2 {
+    font-size: 42px;
+    line-height: 52px;
+    text-align: center;
+    padding: 55px 0px 0px;
+}
+.book .form-inline {
+    padding: 45px 0px 0px 0px;
+    text-align: center;
+}
+.book .form-control {
+    box-shadow: none;
+}
+.book .my-4 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.book .form-inline .btn-primary {
+    margin: 0px 0px 30px 0px;
+}
+.award .title h1 {
+    font-size: 43px;
+    line-height: 53px;
+    padding: 0px;
+}
+.award .button{
+	text-align: center;
+}
+.award .card-link {
+    font-size: 17px;
+    line-height: 0px;
+    padding: 7px 30px 7px 30px;
+    margin: 0px;
+}
+.view .title h1 {
+    font-size: 38px;
+    line-height: 48px;
+    padding: 20px 0px 10px;
+}
+.view .button{
+	text-align: center;
+}
+.view .card-link {
+    font-size: 17px;
+    line-height: 0px;
+    padding: 7px 30px 7px 30px;
+    margin: 0px;
+}
+.winter .inner-banner {
+    padding: 50px 0px;
+    text-align: center;
+}
+.winter .inner-banner h1 {
+    font-size: 41px;
+    line-height: 51px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.winter .inner-banner p {
+    font-size: 11px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.winter .inner-button .btn-primary {
+    padding: 12px 30px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin: 0px;
+}
+.news .title h1 {
+    font-size: 45px;
+    line-height: 55px;
+    letter-spacing: 2px;
+    padding: 15px 0px 0px;
+}
+.footer{
+	text-align: center;
+}
+.footer .widget-section {
+    padding: 0px;
+}
+.footer .wid {
+    padding: 0px;
+}
+.footer .widget {
+    padding: 0px;
+    margin: 20px 0px 50px;
+}
+.footer .widget ul li {
+    font-size: 12px;
+    line-height: 22px;
+    margin: 4px 7px 9px -30px;
+}
+/* small-device code end */
+}
+
+/* most of the smartphone devices */
+@media (min-width: 320px) and (max-width: 480px){
+/* maximum device code start */
+.banner .title {
+    padding: 530px 0px 0px 0px;
+    text-align: left;
+}
+.banner .title h1 {
+    font-size: 56px;
+    line-height: 12px;
+    text-align: center;
+}
+.banner .title h2 {
+    font-size: 42px;
+    line-height: 52px;
+    text-align: center;
+    padding: 55px 0px 0px;
+}
+.book .form-inline {
+    padding: 45px 0px 0px 0px;
+    text-align: center;
+}
+.book .form-control {
+    box-shadow: none;
+}
+.book .my-4 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.book .form-inline .btn-primary {
+    margin: 0px 0px 30px 0px;
+}
+.award .title h1 {
+    font-size: 43px;
+    line-height: 53px;
+    padding: 0px;
+}
+.award .button{
+	text-align: center;
+}
+.award .card-link {
+    font-size: 17px;
+    line-height: 0px;
+    padding: 7px 30px 7px 30px;
+    margin: 0px;
+}
+.view .title h1 {
+    font-size: 38px;
+    line-height: 48px;
+    padding: 20px 0px 10px;
+}
+.view .button{
+	text-align: center;
+}
+.view .card-link {
+    font-size: 17px;
+    line-height: 0px;
+    padding: 7px 30px 7px 30px;
+    margin: 0px;
+}
+.winter .inner-banner {
+    padding: 50px 0px;
+    text-align: center;
+}
+.winter .inner-banner h1 {
+    font-size: 41px;
+    line-height: 51px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.winter .inner-banner p {
+    font-size: 11px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.winter .inner-button .btn-primary {
+    padding: 12px 30px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin: 0px;
+}
+.news .title h1 {
+    font-size: 45px;
+    line-height: 55px;
+    letter-spacing: 2px;
+    padding: 15px 0px 0px;
+}
+.footer{
+	text-align: center;
+}
+.footer .widget-section {
+    padding: 0px;
+}
+.footer .wid {
+    padding: 0px;
+}
+.footer .widget {
+    padding: 0px;
+    margin: 20px 0px 50px;
+}
+.footer .widget ul li {
+    font-size: 12px;
+    line-height: 22px;
+    margin: 4px 7px 9px -30px;
+}
+/*maximum device code end*/
+}
+
+/* mobile phone and low resulation tablet */
+@media (min-width: 481px) and (max-width: 767px){
+/* mobile device code starts */
+.banner .title {
+    padding: 530px 0px 0px 0px;
+    text-align: left;
+}
+.banner .title h1 {
+    font-size: 56px;
+    line-height: 12px;
+    text-align: center;
+}
+.banner .title h2 {
+    font-size: 42px;
+    line-height: 52px;
+    text-align: center;
+    padding: 55px 0px 0px;
+}
+.book .form-inline {
+    padding: 45px 0px 0px 0px;
+    text-align: center;
+}
+.book .form-control {
+    box-shadow: none;
+}
+.book .my-4 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.book .form-inline .btn-primary {
+    margin: 0px 0px 30px 0px;
+}
+.award .title h1 {
+    font-size: 43px;
+    line-height: 53px;
+    padding: 0px;
+}
+.award .button{
+	text-align: center;
+}
+.award .card-link {
+    font-size: 17px;
+    line-height: 0px;
+    padding: 7px 30px 7px 30px;
+    margin: 0px;
+}
+.view .title h1 {
+    font-size: 38px;
+    line-height: 48px;
+    padding: 20px 0px 10px;
+}
+.view .button{
+	text-align: center;
+}
+.view .card-link {
+    font-size: 17px;
+    line-height: 0px;
+    padding: 7px 30px 7px 30px;
+    margin: 0px;
+}
+.winter .inner-banner {
+    padding: 50px 0px;
+    text-align: center;
+}
+.winter .inner-banner h1 {
+    font-size: 41px;
+    line-height: 51px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.winter .inner-banner p {
+    font-size: 11px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.winter .inner-button .btn-primary {
+    padding: 12px 30px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin: 0px;
+}
+.news .title h1 {
+    font-size: 45px;
+    line-height: 55px;
+    letter-spacing: 2px;
+    padding: 15px 0px 0px;
+}
+.footer{
+	text-align: center;
+}
+.footer .widget-section {
+    padding: 0px;
+}
+.footer .wid {
+    padding: 0px;
+}
+.footer .widget {
+    padding: 0px;
+    margin: 20px 0px 50px;
+}
+.footer .widget ul li {
+    font-size: 12px;
+    line-height: 22px;
+    margin: 4px 7px 9px -30px;
+}
+/* mobile device code end */
+}
+
+/* tablet, notebook */
+@media (min-width: 768px) and (max-width: 1024px){
+/* tablet device code start*/
+.winter .inner-banner h1 {
+    font-size: 51px;
+    line-height: 61px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.winter .inner-banner p {
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.winter .inner-button .btn-primary {
+    position: relative;
+    left: 24%;
+}
+/*tablet device code end*/
+  }
